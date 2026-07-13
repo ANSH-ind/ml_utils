@@ -42,13 +42,19 @@ pip install ml_utils
 
 **built on core formula**
 
+$$
+softmax(x_i)=\frac{e^{x_i}}{\sum e^x}
+$$
+
+
 *flow**
 
 ```marmaid
 graph LR
 
 A[input] --> B[cythone kernal] --> C[output]
-```
+
+
 ***see below the performance of our softmax***
 
 <img src = "https://res.cloudinary.com/dbmcddwjd/image/upload/v1783966472/Screenshot_2026-07-13-23-29-34-996_ru.iiec.pydroid3_tlwlhp.jpg" width = "300">

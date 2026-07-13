@@ -57,7 +57,7 @@ $$
 graph LR
 
 A[input] --> B[cythone kernal] --> C[output]
-
+```
 
 ***see below the performance of our softmax***
 

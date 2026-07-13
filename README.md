@@ -1,5 +1,7 @@
 <h1>welcome to ml utils</h1>
 
+<span stype="color:white">devlopped by ansh raj</span>
+
 **python version** 
 
 ![Python](https://img.shields.io/badge/Python-3-blue)

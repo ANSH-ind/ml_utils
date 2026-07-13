@@ -21,6 +21,6 @@ pip install ml_utils
 
 <h3>languages use for build different-diffrent function and classes</h3>
 
-|language| function |
-|--------|----------|
-| cython | softmax  |
+|language| function |      arguments     |best for|
+|--------|----------|--------------------|--------|
+| cython | softmax  |(np.nparray,axis=-1)|last dim|

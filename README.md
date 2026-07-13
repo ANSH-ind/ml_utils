@@ -1,6 +1,6 @@
 ***welcome to ml utils***
 ```python
-//cython
+pip install ml_utils
 ```
 
 

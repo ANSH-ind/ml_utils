@@ -23,6 +23,7 @@
 - sigmoid
 - BCEWithLossLogits
 - attention
+- positional encoding
 
 >[!NOTE]
 >may be some function are not available this is because they in development zone, after they are tested i publish to my utils_library so that you can use
@@ -32,6 +33,7 @@
 - [ ] sigmoid
 - [ ] BCEWithLossLogits
 - [ ] attention
+- [ ] positional encoding
 
 
 <h3>visit developer website</h3>

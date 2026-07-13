@@ -1,7 +1,9 @@
 <h1>welcome to ml utils</h1>
+
 ```python
 pip install ml_utils
 ```
+
 ****softmax****
 
 

@@ -1,5 +1,7 @@
 <h1>welcome to ml utils</h1>
 
+
+![License](https://img.shields.io/badge/license-MIT-green)
 <span stype="color:blue">devlopped by ansh raj</span>
 
 **python version** 

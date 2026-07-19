@@ -10,3 +10,5 @@
 - portfolio: https://anshstudios.pages.dev/portfolio
 - core language: c/cython
 - for : ai & ml
+
+[documentation](https://anshstudios.pages.dev/ai_lib)
